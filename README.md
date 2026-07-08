@@ -1,4 +1,7 @@
 https://github.com/user-attachments/assets/b4cfb61b-0eb1-4d5a-b678-c1de04f6e13b
+<a href="https://github.com" target="_blank">
+  👉 Click here to watch this video in a clean, standalone window
+</a>
 
 # population
 To trial different New Zealand population and immigration strategies, assuming various fertility patterns.
