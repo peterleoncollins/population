@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/b4cfb61b-0eb1-4d5a-b678-c1de04f6e13b
+
 # population
 To trial different New Zealand population and immigration strategies, assuming various fertility patterns.
 <br><br>The method generates Population.csv to the model specified by the parameters fertility, dispora, returns, immigration, population size, from the Statistics NZ tabulation of latest population cohorts, and the latest cohorts' life tables, using the python program: Population.py.
