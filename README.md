@@ -5,7 +5,7 @@ To trial different New Zealand population and immigration strategies, assuming v
 <br><br>The parameters for Population.py are:
 <br>**Projection years** — how many years the model runs forward. Longer runs let slow effects (fertility decline, mortality fluctuation, target convergence) fully play out; too short a run may cut off trends before they matter.
 <br>**Base year** — the calendar year the starting population applies to. Only relabels the output's year axis; doesn't change any dynamics.
-<br>**Current TFR** — Native track's starting births-per-woman. Directly sets the initial birth rate; higher TFR means more age-0 entrants each year and slower/reversed decline.
+<br>**Current TFR** — Native track's starting births-per-woman. Directly sets the initial birth rate; higher TFR means more age- entrants each year and slower/reversed decline.
 <br>**Annual % change in fertility** — compounds TFR up or down every year. Negative values (the historical NZ pattern) shrink future birth cohorts progressively, hollowing out the pyramid's base over time.
 <br>**Immigration Y/N** — master switch. If N, the population-target mechanism is disabled entirely and the population just floats on births/deaths/diaspora/returns alone.
 <br>**Diaspora %** — % of the combined Native+Immigrant population leaving per year. Higher values drain population faster and increase how much immigration has to compensate to hit any target.
